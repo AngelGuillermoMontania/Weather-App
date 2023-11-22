@@ -8,7 +8,7 @@ export default function Header({ addCity }) {
       gap="3"
       px={5}
       py={10}
-      bg="#00000060"
+      bg="#000000"
       justifyContent="space-around"
       border="1px solid black"
     >
